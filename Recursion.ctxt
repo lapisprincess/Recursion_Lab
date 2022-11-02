@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Recursion
+comment0.text=\n\ Here\ are\ some\ methods\ for\ you\ to\ write\n\ \n\ @author\ David\ \n\ @version\ 3/24/18\n
+comment1.params=n
+comment1.target=int\ countDigits(int)
+comment1.text=\n\ Determine\ the\ number\ of\ digits\ in\ a\ given\ integer.\n\ \n\ @param\ n\ a\ positive\ integer\n\ @return\ the\ number\ of\ digits\ in\ n\n
+comment2.params=m\ n
+comment2.target=int\ gcd(int,\ int)
+comment2.text=\n\ Determine\ the\ greatest\ common\ divisor\ (gcd)\ between\ m\ and\ n\n\ \n\ @param\ m\ a\ positive\ integer\n\ @param\ n\ a\ positive\ integer\n\ @return\ the\ gcd\ between\ m\ and\ n\n
+comment3.params=list
+comment3.target=boolean\ isConsecutive(java.util.List)
+comment3.text=\n\ Q3\:\ Determines\ if\ the\ given\ list\ contains\ consecutive\ numbers.\n
+comment4.params=list
+comment4.target=void\ reverse(java.util.List)
+comment4.text=\n\ Q4\:\ Reverses\ the\ given\ list.\n\ @param\ list\n\ @param\ start\ Current\ start\ position\ of\ the\ list\n\ @param\ end\ \ \ Current\ end\ position\ of\ the\ list\n
+comment5.params=list\ start\ end
+comment5.target=void\ reverseHelper(java.util.List,\ int,\ int)
+comment6.params=n
+comment6.target=boolean\ isPrimeHelper(int)
+comment6.text=\n\ Q5\:\ Prime\ number\ checker\n\ @param\ n\ The\ number\ to\ check\n\ @param\ divisor\ The\ current\ number\ by\ which\ to\ divide\ n\n
+comment7.params=n\ divisor
+comment7.target=boolean\ isPrimeHelper(int,\ int)
+numComments=8

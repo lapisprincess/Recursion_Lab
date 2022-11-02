@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=RecursionBugs
+comment0.text=\n\ These\ methods\ have\ bugs\ that\ you\ need\ to\ fix\!\n\ \n\ @author\ David\ \n\ @version\ 3/24/18\n
+comment1.params=n
+comment1.target=void\ skipPrint(int)
+comment1.text=\n\ This\ method\ prints\ every\ other\ number\ from\ n\ down\ to\ 0.\n
+comment2.params=list\ key\ head
+comment2.target=int\ linearSearch(int[],\ int,\ int)
+comment2.text=\n\ This\ method\ performs\ linear\ search\ recursively.\ If\ the\ key\ is\ \n\ found\ at\ the\ head\ of\ the\ unexplored\ sublist,\ then\ you're\ done.\n\ Otherwise,\ search\ for\ the\ key\ in\ the\ remaining\ unexplored\ sublist.\n\ \n\ @param\ list\ \ a\ list\ of\ integers\n\ @param\ key\ \ \ a\ search\ key\n\ @param\ head\ \ starting\ index\ of\ the\ unexplored\ sublist\n\ @return\ position\ in\ which\ the\ key\ is\ found,\ or\ -1\ if\ not\ found.\n
+comment3.params=nums
+comment3.target=java.util.List\ evens(java.util.List)
+comment3.text=\n\ This\ method\ returns\ a\ list\ that\ contains\ only\ the\ even\ numbers\ from\n\ the\ input\ list.\n\ @param\ nums\ \ a\ list\ of\ integers\n\ @return\ a\ (possibly\ empty)\ list\ containing\ even\ integers\n
+numComments=4

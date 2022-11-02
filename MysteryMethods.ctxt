@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MysteryMethods
+comment0.text=\n\ Here\ are\ some\ mystery\ methods\ for\ you\ to\ figure\ out\!\n\ \n\ @author\ David\ \n\ @version\ 4/24/17\n
+comment1.params=x\ y
+comment1.target=int\ mystery1(int,\ int)
+comment2.params=i\ j
+comment2.target=int\ mystery2(int,\ int)
+comment3.params=list\ pos
+comment3.target=int\ mystery3(int[],\ int)
+comment4.params=a\ b
+comment4.target=double\ mystery4(double,\ double)
+numComments=5
